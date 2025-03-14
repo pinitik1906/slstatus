@@ -73,5 +73,5 @@ static const struct arg args[] = {
 	{ temp,			"%sC | ",	"/sys/class/thermal/thermal_zone0/temp"},
 	{ battery_perc,		"BAT %s%% | ",	"BAT0"},
 	{ backlight_perc,	"BRI %s%% | ",	"intel_backlight"},
-	{ datetime,		"%s",		"%F %T" },
+	{ datetime,		"%s",		"%a %b %d, %Y %H:%M:%S" },
 };
