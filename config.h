@@ -71,7 +71,7 @@ static const struct arg args[] = {
 	{ wifi_essid,		"%s ",		"wlp3s0"},
 	{ wifi_perc,		"%s%% | ",	"wlp3s0"},
 	{ temp,			"%sC | ",	"/sys/class/thermal/thermal_zone0/temp"},
-	{ battery_perc,		"BAT %s%% | ",	"BAT0"},
-	{ backlight_perc,	"BRI %s%% | ",	"intel_backlight"},
+	{ battery_perc,		"BAT %s% | ",	"BAT0"},
+	{ backlight_perc,	"BRI %s | ",	"intel_backlight"},
 	{ datetime,		"%s",		"%a %b %d, %Y %H:%M:%S" },
 };
