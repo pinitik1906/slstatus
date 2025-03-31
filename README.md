@@ -3,13 +3,13 @@
 ## dependencies
 (if it does not build, you might need to install the `*-devel` packages also)
 
-+ `libX11`
-+ `libXft`
-+ `libXinerama`
+- `libX11`
+- `libXft`
+- `libXinerama`
 
 ## patches
 
-+ backlight
+- backlight
 
 ## install
 to install my slstatus, type
