@@ -5,7 +5,6 @@
 
 - `libX11`
 - `libXft`
-- `libXinerama`
 
 ## patches
 
